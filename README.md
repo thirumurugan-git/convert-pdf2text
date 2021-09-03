@@ -10,8 +10,8 @@ run **python3 -m pip install requirements.txt** to install neccessary package fo
 
 
 # How to run
-To run, use command **python3 convert2text.py <path-to-file>**
-**note:** path should be relative to your file.
+To run, use command **python3 convert2text.py <path-to-file>
+note: ** path should be relative to your file.
 
 ## Output
 output will be saved as **OCR\_output.txt**
